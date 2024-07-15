@@ -1,3 +1,3 @@
 # PalabraLarga
 
-Cómo encontrar la palabra más larga en un string/frase con Javascript!
+## Cómo encontrar la palabra más larga en un string/frase con Javascript!
