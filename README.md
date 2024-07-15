@@ -4,5 +4,5 @@
 
 ### **_Programación en Javascript!_**
 
-- Cómo encontrar la palabra más larga de una frase/string utilizando solamente Javascript.
+- _Cómo encontrar la palabra más larga de una frase/string utilizando solamente Javascript._
 - Algoritmos en Javascript.
