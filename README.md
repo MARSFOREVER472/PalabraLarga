@@ -2,4 +2,4 @@
 
 ## **_Cómo encontrar la palabra más larga mediante un string/frase con Javascript!_**
 
-### Programación en Javascript
+### _Programación en Javascript_
