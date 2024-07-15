@@ -6,4 +6,4 @@
 
 - **_Cómo encontrar la palabra más larga de una frase/string utilizando solamente Javascript._**
 - **_Algoritmos utilizando solamente Javascript._**
-- Descubre 8 maneras distintas de encontrar la palabra más larga existente en una string(cadena de texto) o frase usando Javascript.
+- _Descubre 8 maneras distintas de encontrar la palabra más larga existente en una string(cadena de texto) o frase usando Javascript._
