@@ -8,4 +8,4 @@
 - **_Algoritmos utilizando solamente Javascript._**
 - **_Descubre 8 maneras distintas de encontrar la palabra más larga existente en un ```string``` (Cadena de Texto) o frase usando Javascript._**
 - **_Los algoritmos suelen estar siempre presentes en todos los lenguajes de programación (Javascript, PHP, Java, C++, Python, Go-Language, etc)._**
-- _Estos algoritmos nos sirven para solucionar retos o desafíos, aplicando una lógica de programación que nos lleve a la solución del problema._
+- **_Estos algoritmos nos sirven para solucionar retos o desafíos, aplicando una lógica de programación que nos lleve a la solución del problema._**
