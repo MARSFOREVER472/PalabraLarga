@@ -11,4 +11,4 @@
 - **_Estos algoritmos nos sirven para solucionar retos o desafíos, aplicando una lógica de programación que nos lleve a la solución del problema._**
 - **_También es cierto que los algoritmos en Javascript suelen ser bastante intimidatorios y les suele causar cierto miedo o respeto a los novatos en Javascript._**
 - **_Pero son una manera que desarrollar una buena capacidad de resolución de problemas y de paso, aprender nuevas técnicas o habilidades a la hora de crear nuestro código con javascript._**
-En este proyecto te presentamos un contenido de enorme valor para todas aquellas personas que quieran aprender a programar con Javascript, en donde vamos a mostrarte hasta una cierta cantidad de 8 maneras distintas de encontrar la palabra más larga existente en una frase o cadena de texto (string). 
+En este proyecto te presentamos un contenido de enorme valor para todas aquellas personas que quieran aprender a programar con Javascript, en donde vamos a mostrarte hasta una cierta cantidad de 8 maneras distintas de encontrar la palabra más larga y existente en una frase o cadena de texto (string). 
