@@ -12,4 +12,4 @@
 - **_También es cierto que los algoritmos en Javascript suelen ser bastante intimidatorios y les suele causar cierto miedo o respeto a los novatos en Javascript._**
 - **_Pero son una manera que desarrollar una buena capacidad de resolución de problemas y de paso, aprender nuevas técnicas o habilidades a la hora de crear nuestro código con javascript._**
 - **_En este proyecto te presentamos un contenido de enorme valor para todas aquellas personas que quieran aprender a programar con Javascript, en donde vamos a mostrar hasta una cierta cantidad de 8 maneras distintas de encontrar la palabra más larga y existente mediante una frase o una cadena de texto (```string```)._**
-- La parte inicial del proyecto es ideal para principiantes, ya que te presentamos algunos algoritmos en Javascript de fácil resolución.
+- _La parte inicial del proyecto es ideal para principiantes, ya que te presentamos algunos algoritmos en Javascript de fácil resolución._
