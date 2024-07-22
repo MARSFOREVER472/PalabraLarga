@@ -29,6 +29,54 @@
         
         <h2>console.log(encontrarPalabraLarga("HOLA MICHAEL ! QUÉ BUENO QUE LO ENCUENTRO!!!!"));
         </h2>
+    <h2>Algoritmo 2:</h2>
+    <h2>function encontrarPalabraLargaNumerica(str)</h2>
+       <h2>{</h2>
+           <h2>let palabras = str.split(" ");</h2>
+
+           <h2>let miPalabraLarga = "";</h2>
+
+           <h2>for (let i = 0; i < palabras.length; i++)</h2>
+           <h2>{</h2>
+        <h2>if (palabras[i].length > miPalabraLarga.length)</h2>
+        <h2>{</h2>
+            <h2>miPalabraLarga = palabras[i];</h2>
+        <h2>}</h2>
+
+       <h2>}</h2>
+
+       <h2>return miPalabraLarga;</h2>
+      <h2>}</h2>
+
+    <h2>console.log(encontrarPalabraLarga("HOLA MUNDO CRUEL DE 80 MIL PALABRAS!!!!"));
+    </h2>
+
+    <h2>Algoritmo 3:</h2>
+    <h2>function palabraMasLarga(stringInput)</h2>
+    <h2>{</h2>
+        <h2>let arreglo = stringInput.split(" ");</h2>
+        <h2>// BASADO EN UN NÚMERO DE CARACTERES Y/O LETRAS, UTILIZAREMOS LA FUNCIÓN "sort"...</h2>
+        
+        <h2> arreglo.sort(function(a, b)</h2>
+        <h2>{</h2>
+            <h2>return (b.length - a.length);</h2>
+        <h2>});</h2>
+        
+        <h2>// LA PARTE ANTERIOR CON "Arrow Function"</h2>
+        <h2>// arreglo.sort((a, b) => b.length - a.length);</h2>
+        <h2>// console.log(`La palabra más larga es: ${arreglo[0]}`);</h2>
+
+        <h2>// PERO NO ES LA FORMA...</h2>
+
+        <h2>console.log("La palabra más larga essss: " + arreglo[0]);</h2>
+        <h2>document.write("La palabra más larga essss: " + arreglo[0]);</h2>
+
+        <h2>}</h2>
+
+        <h2>palabraMasLarga("HOLA COMPLETAMENTE MI QUERIDO SEÑOR JESUCRISTO!");
+        </h2>
+
+        <h2> PARA MÁS EJERCICIOS, ALTERNATIVOS Y MUCHO MÁS, DENTRO DEL ARCHIVO JAVASCRIPT SE ENCUENTRAN TODOS LOS ALGORITMOS REALIZADOS!!!!</h2>
    </div>
 <body>
     <script src="Palabra.js"></script> 
